@@ -175,3 +175,5 @@ h2 {
 background-color: :var(--alto-contraste-alto);
 color:var(--alto-contraste-texto);
 }
+
+.alto-contraste header, .alto-contraste footer, .alto-contraste .formulario
