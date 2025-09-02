@@ -167,6 +167,7 @@ h2 {
 .opcoes-acessibilidade button{
     margin-bottom: 5px;
 }
+
 .apresenta-lista{
     display: none;
 }
@@ -188,4 +189,9 @@ color:var(--alto-contraste-texto);
 .alto-contraste #tropicalia{
     background-color:var(--alto-contraste-alto);
     background:none;
+}
+
+
+.alto-contraste .fundo-galeria{
+    background: none;
 }
