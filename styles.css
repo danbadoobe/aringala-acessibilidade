@@ -177,6 +177,15 @@ color:var(--alto-contraste-texto);
 }
 
 .alto-contraste header, .alto-contraste footer, .alto-contraste .formulario{
-    background-color:var (--alto-contraste-alto);
+    background-color:var(--alto-contraste-alto);
     color:var(--alto-contraste-texto);
+}
+
+.alto-contraste .nav-link{
+    color:var(--alto-contraste-link);
+}
+
+.alto-contraste #tropicalia{
+    background-color:var(--alto-contraste-alto);
+    background:none;
 }
