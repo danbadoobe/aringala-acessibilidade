@@ -172,7 +172,7 @@ h2 {
 }
 
 .alto-contraste{
-background-color: :var(--alto-contraste-alto);
+background-color:var(--alto-contraste-alto);
 color:var(--alto-contraste-texto);
 }
 
