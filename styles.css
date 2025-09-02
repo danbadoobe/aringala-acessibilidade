@@ -176,4 +176,7 @@ background-color:var(--alto-contraste-alto);
 color:var(--alto-contraste-texto);
 }
 
-.alto-contraste header, .alto-contraste footer, .alto-contraste .formulario
+.alto-contraste header, .alto-contraste footer, .alto-contraste .formulario{
+    background-color:var (--alto-contraste-alto);
+    color:var(--alto-contraste-texto);
+}
