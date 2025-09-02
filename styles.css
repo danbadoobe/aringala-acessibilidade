@@ -3,6 +3,10 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --alto-contraste-alto: #000000;
+    --altro-constraste-texto:#ffffff;
+    --alto-contraste-link:#ffd700;
+
 }
 
 body {
@@ -163,7 +167,11 @@ h2 {
 .opcoes-acessibilidade button{
     margin-bottom: 5px;
 }
-
 .apresenta-lista{
     display: none;
+}
+
+.alto-contraste{
+background-color: :var(--alto-contraste-alto);
+color:var(--alto-contraste-texto);
 }
